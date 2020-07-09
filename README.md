@@ -20,3 +20,5 @@ Step 6: Now we are done, and we have successfully created our first project.
 Step 7: Now, it's time to run the project.
 
 Step 8: Run the command: npm start and here we go....
+
+<img src="src/helloworld.png">
