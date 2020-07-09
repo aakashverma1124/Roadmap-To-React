@@ -30,3 +30,8 @@ Adding one directory to the src folder named as components, we'll keep all the c
 Now create a js file which will be Greet.js and our first functional component also.
 
 The simplest way to define a component is to write a JavaScript function. A valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.
+
+Now create a new file to the component directory named as Welcome.js as our first class component.
+
+Class syntax is one of the most common ways to define a React component. While more verbose than the functional syntax, it offers more control in the form of lifecycle hooks.
+Creating a class component is pretty simple; just define a class that extends Component and has a render function.
