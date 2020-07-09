@@ -25,4 +25,6 @@ Step 8: Run the command: npm start and here we go....
 
 ### Adding our first Functional Component
 
-Adding one directory to the src folder named as components, now create a js file which will be Greet.js and our first functional component also.
+Adding one directory to the src folder named as components, we'll keep all the components in this file only. 
+
+Now create a js file which will be Greet.js and our first functional component also.
