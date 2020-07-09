@@ -28,3 +28,5 @@ Step 8: Run the command: npm start and here we go....
 Adding one directory to the src folder named as components, we'll keep all the components in this file only. 
 
 Now create a js file which will be Greet.js and our first functional component also.
+
+The simplest way to define a component is to write a JavaScript function. A valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.
