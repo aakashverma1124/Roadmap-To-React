@@ -22,3 +22,7 @@ Step 7: Now, it's time to run the project.
 Step 8: Run the command: npm start and here we go....
 
 <img src="src/helloworld.png">
+
+### Adding our first Functional Component
+
+Adding one directory to the src folder named as components, now create a js file which will be Greet.js and our first functional component also.
