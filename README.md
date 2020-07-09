@@ -12,3 +12,11 @@ Step 4: Run the following command npx create-react-app "name of your project"
 For example: npx create-react-app learning-react
 
 Note: The name of the project must be in lowercase.
+
+Step 5: Navigate to folder that yu have created by running cd learning-react
+
+Step 6: Now we are done, and we have successfully created our first project.
+
+Step 7: Now, it's time to run the project.
+
+Step 8: Run the command: npm start and here we go....
