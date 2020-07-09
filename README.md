@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Roadmap-To-React
 This repository contains step-by-step tutorials for getting started with React.js
 =======
