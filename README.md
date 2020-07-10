@@ -35,3 +35,7 @@ Now create a new file to the component directory named as Welcome.js as our firs
 
 Class syntax is one of the most common ways to define a React component. While more verbose than the functional syntax, it offers more control in the form of lifecycle hooks.
 Creating a class component is pretty simple; just define a class that extends Component and has a render function.
+
+### Into To Props:
+props short for properties, is the optional input that your component can accept.
+It also allows the component content to be dynamic. Means, using a single component we can apply some dynamic changes to it.
