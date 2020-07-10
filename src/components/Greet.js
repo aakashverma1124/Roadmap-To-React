@@ -17,7 +17,7 @@ const Greet = () =>  {
     return (
         React.createElement (
             'div',
-            null,
+            {id: 'hello', className: 'hello'},
             React.createElement (
                 'h1',
                 null,
