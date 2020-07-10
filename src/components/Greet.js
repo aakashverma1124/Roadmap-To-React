@@ -11,6 +11,7 @@ const Greet = (props) =>  {
     return (
         <div>
             <h1>Hello, {props.name}</h1>
+            {/*In case of class component, props can be used using this.props.name*/}
             {props.children}
         </div>
     )
