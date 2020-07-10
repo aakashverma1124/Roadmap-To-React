@@ -7,24 +7,24 @@ import React from 'react'
 // }
 
 // Try it using arrow functions.
-const Greet = () =>  {
-    // return (
-    //     <div>
-    //         <h1>Hello, Geek!</h1>
-    //     </div>
-    // )
-
+const Greet = (props) =>  {
     return (
-        React.createElement (
-            'div',
-            {id: 'hello', className: 'hello'},
-            React.createElement (
-                'h1',
-                null,
-                'Hello, World!'
-            )
-        )
+        <div>
+            <h1>Hello, {props.name}</h1>
+        </div>
     )
+
+    // return (
+    //     React.createElement (
+    //         'div',
+    //         {id: 'hello', className: 'hello'},
+    //         React.createElement (
+    //             'h1',
+    //             null,
+    //             'Hello, World!'
+    //         )
+    //     )
+    // )
 }
 
 
