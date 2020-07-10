@@ -8,7 +8,9 @@ class App extends Component {
     render() {
       return (
         <div className="App">
-            <Greet name={"Ram"}></Greet>
+            <Greet name={"Ram"}>
+                <p>This is children props for Ram.</p>
+            </Greet>
             <Greet name={"Mohan"}></Greet>
             <Greet name={"Geet"}></Greet>
             {/*<Welcome></Welcome>*/}
