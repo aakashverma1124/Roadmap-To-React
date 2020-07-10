@@ -39,3 +39,7 @@ Creating a class component is pretty simple; just define a class that extends Co
 ### Into To Props:
 props short for properties, is the optional input that your component can accept.
 It also allows the component content to be dynamic. Means, using a single component we can apply some dynamic changes to it.
+
+### Intro to State:
+
+State is similar to props, but it is private and fully controlled by the component. It is basically used to change the message on some event.
