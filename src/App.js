@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Greet from "./components/Greet";
 import Welcome from "./components/Welcome";
+import Message from "./components/Message";
 
 class App extends Component {
     render() {
@@ -13,6 +14,7 @@ class App extends Component {
             </Greet>
             <Greet name={"Mohan"}></Greet>
             <Greet name={"Geet"}></Greet>
+            <Message></Message>
             {/*<Welcome></Welcome>*/}
         </div>
       )
